@@ -143,4 +143,18 @@
 
 --- 
 
+
+**Figure:** The TOGAF Architecture Development Method (ADM) cycle. This project maps each phase to a component of the Agentic AI workflow implemented in n8n.
+
+| TOGAF Phase | AI Workflow Component |
+|-------------|------------------------|
+| **A. Architecture Vision** | Real-time intelligent automation using LLM + Pinecone |
+| **B. Business Architecture** | Calendar automation, RAG, agent as a business enabler |
+| **C. Information Systems** | Pinecone (Data), AI agent nodes in n8n (Application) |
+| **D. Technology Architecture** | Cloud-native deployment (n8n, Docker, AKS) |
+| **E. Opportunities & Solutions** | Google Calendar integration + extensible tools |
+| **F. Migration Planning** | Start with scheduling, then scale |
+| **G. Implementation Governance** | Secure, traceable workflow deployment |
+| **H. Change Management** | Continuous update of embeddings without retraining |
+
 	
