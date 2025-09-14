@@ -18,7 +18,22 @@
   
 - Deployed implementation  of project 5 (on Azure Kubernetes Services & Namecheap): (https://app.emmanueloyekanluprojects.com) – Here , you can upload your own pdf files and then chat with the system
   
-- Deployed implementation of project 5 (Prometheus & Grafana monitoring): https://grafana.emmanueloyekanluprojects.com/login , http://prometheus.emmanueloyekanluprojects.com
+- Deployed implementation of project 5 (Prometheus & Grafana monitoring): https://grafana.emmanueloyekanluprojects.com/login 
   
-* (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications) 
+* (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications)
+
+---
+
+## Phase A: Architecture Vision  🧭
+#### The goal of the Agentic AI system is to advance the enterprise vision of real-time intelligent automation with autonomous AI Agents that learns from the environments and increases its intelligence and capabilities. 
+
+#### By leveraging vector databases like Pinecone in combination with large language models (LLMs), the agent dynamically interacts with business knowledge and user context without requiring model retraining. 
+
+#### This directly supports enterprise-level goals such as business agility, self-service intelligence, and lower time-to-decision. 
+
+#### The n8n-based agentic and LLM workflow thus becomes a tangible proof-of-concept for broader enterprise AI adoption. In a nutshell, in these set of projects, in the architecture vision phase, we:
+
+        ◦ Show how Agentic AI supports the vision of enterprise-wide intelligent automation by connecting business goals with AI capabilities.
+		
+        ◦ Example: Using Pinecone + LLMs in several contexts ensures real-time knowledge integration without retraining, aligning with “business agility” goals.
 	
