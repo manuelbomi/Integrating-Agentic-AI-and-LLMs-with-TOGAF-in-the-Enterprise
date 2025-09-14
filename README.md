@@ -22,6 +22,20 @@
   
 * (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications)
 
+* A tabular summary of the TOGAF architecture is shown below:
+
+| TOGAF Phases | AI Workflow Component |
+|-------------|------------------------|
+| **A. Architecture Vision** | Real-time intelligent automation using LLMs + Agentic AI + Vector databases |
+| **B. Business Architecture** | Gen-AI, LLMs, RAGs, Agentic AI as business enablers |
+| **C. Information Systems** | Vector databases (e.g. Pinecone), AI agent nodes in low-code (n8n) and code-based applications |
+| **D. Technology Architecture** | Cloud-native deployment (n8n, Docker, AKS) |
+| **E. Opportunities & Solutions** | ERPs + CRMs + Manufacturing + Business projects + extensible tools |
+| **F. Migration Planning** | Start with data pipeline orchestration & event coordination, then scale out |
+| **G. Implementation Governance** | Secure, traceable workflow deployment |
+| **H. Change Management** | Continuous update of embeddings without retraining |
+
+
 ---
 
 ## Phase A: Architecture Vision  🧭
@@ -146,15 +160,5 @@
 
 **Figure:** The TOGAF Architecture Development Method (ADM) cycle. This project maps each phase to a component of the Agentic AI workflow implemented in n8n.
 
-| TOGAF Phase | AI Workflow Component |
-|-------------|------------------------|
-| **A. Architecture Vision** | Real-time intelligent automation using LLM + Pinecone |
-| **B. Business Architecture** | Calendar automation, RAG, agent as a business enabler |
-| **C. Information Systems** | Pinecone (Data), AI agent nodes in n8n (Application) |
-| **D. Technology Architecture** | Cloud-native deployment (n8n, Docker, AKS) |
-| **E. Opportunities & Solutions** | Google Calendar integration + extensible tools |
-| **F. Migration Planning** | Start with scheduling, then scale |
-| **G. Implementation Governance** | Secure, traceable workflow deployment |
-| **H. Change Management** | Continuous update of embeddings without retraining |
 
 	
