@@ -20,5 +20,5 @@
   
 - Deployed implementation of project 5 (Prometheus & Grafana monitoring): https://grafana.emmanueloyekanluprojects.com/login , Prometheus Time Series Collection and Processing Server
   
-(6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications) 
+* (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications) 
 	
