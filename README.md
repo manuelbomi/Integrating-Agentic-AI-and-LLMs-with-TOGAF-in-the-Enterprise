@@ -36,4 +36,19 @@
         ◦ Show how Agentic AI supports the vision of enterprise-wide intelligent automation by connecting business goals with AI capabilities.
 		
         ◦ Example: Using Pinecone + LLMs in several contexts ensures real-time knowledge integration without retraining, aligning with “business agility” goals.
+
+---
+
+## Phase B: Business Architecture  🏛️ 
+#### From a business perspective, the AI agent acts as an intelligent assistant capable of handling real workflows — such as enterprise data pipeline orchestration and event/meeting scheduling — using the enterprise data. 
+
+#### It supports Retrieval-Augmented Generation (RAG) from the Pinecone vector store, allowing the reuse of internal documentation and knowledge assets across teams. 
+
+#### This breaks down data silos and aligns with TOGAF's vision of reusable, shared capabilities. The agent is designed to be extensible — future versions could handle financial analysis, aid enterprise-wide troubleshooting and project assistance, or detailed customer interactions (as shown in project 5).  
+
+#### In a nutshell, in the business architecture phase, across all the projects (1 – 6), we:
+
+        ◦ Position the AI agent as a business enabler that can handle RAG workflows, event scheduling & management, or financial analysis.
+		
+        ◦ Emphasize enterprise data reuse: no silos, just embeddings across shared knowledge bases.
 	
