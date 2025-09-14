@@ -18,7 +18,7 @@
   
 - Deployed implementation  of project 5 (on Azure Kubernetes Services & Namecheap): (https://app.emmanueloyekanluprojects.com) – Here , you can upload your own pdf files and then chat with the system
   
-- Deployed implementation of project 5 (Prometheus & Grafana monitoring): https://grafana.emmanueloyekanluprojects.com/login , Prometheus Time Series Collection and Processing Server
+- Deployed implementation of project 5 (Prometheus & Grafana monitoring): https://grafana.emmanueloyekanluprojects.com/login , http://prometheus.emmanueloyekanluprojects.com
   
 * (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications) 
 	
