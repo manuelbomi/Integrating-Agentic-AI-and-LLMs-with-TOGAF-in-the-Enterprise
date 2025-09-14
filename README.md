@@ -22,7 +22,8 @@
   
 * (6) An Enterprise LLM System for Healthcare Applications (manuelbomi/An-Enterprise-LLM-System-for-HealthCare-Applications)
 
-* A tabular summary of the TOGAF architecture is shown below:
+
+#### A tabular summary of the TOGAF-based implementation is shown below:
 
 | TOGAF Phases | AI Workflow Component |
 |-------------|------------------------|
@@ -141,6 +142,30 @@
         ◦ This matches TOGAF’s principle of continuous improvement, lowering cost of ownership.
 
 ----
+## Architecture Mapping Diagram
+#### Below is a visual representation of the TOGAF ADM Phases & Agentic AI/LLM Workflow Integration —the diagram illustrates the TOGAF Architecture Development Method. 
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/54701ccc-5a93-4c2f-a393-20f70c6a065a" />
+
+#### Each phase corresponds to key stages of architecture creation, governance, migration, and continuous improvement  diagram that illustrates the iterative of the phases, including:
+
+    • Phase A – Architecture Vision: Your proof-of-concept for intelligent enterprise automation, centered on real-time knowledge retrieval using vector search.
+	
+    • Phase B – Business Architecture: Positioning the AI agent as a business enabler for tasks like calendar automation and RAG-based workflows.
+	
+    • Phase C – Information Systems (Data & Application): The technical mapping of Pinecone as semantic memory and modular AI nodes as reusable enterprise services.
+	
+    • Phase D – Technology Architecture: Emphasis on cloud-native deployment, scalability, and enterprise-grade governance via n8n, Docker/Kubernetes.
+	
+    • Phase E – Opportunities & Solutions: Demonstration of actionable integrations (e.g., Google Calendar) and the blueprint for future ERP/CRM connectors.
+	
+    • Phases F & G – Migration Planning & Implementation Governance: A low-risk rollout starting with a limited use case and layering governance structures for compliance, traceability, and security.
+	
+    • Phase H – Architecture Change Management: Continuous adaptability through updating embeddings, supporting agile architecture evolution aligned with business needs.
+
+---
+
+
 
 ## Why This Architecture Matters  ✅ 
 #### This project bridges the gap between AI innovation and enterprise architecture. 
@@ -158,7 +183,7 @@
 --- 
 
 
-**Figure:** The TOGAF Architecture Development Method (ADM) cycle. This project maps each phase to a component of the Agentic AI workflow implemented in n8n.
+
 
 
 	
