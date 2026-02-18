@@ -39,7 +39,7 @@
 
 ---
 
-## Phase A: Architecture Vision  🧭
+## Phase A: Architecture Vision  
 #### The goal of the Agentic AI system is to advance the enterprise vision of real-time intelligent automation with autonomous AI Agents that learns from the environments and increases its intelligence and capabilities. 
 
 #### By leveraging vector databases like Pinecone in combination with large language models (LLMs), the agent dynamically interacts with business knowledge and user context without requiring model retraining. 
@@ -54,7 +54,7 @@
 
 ---
 
-## Phase B: Business Architecture  🏛️ 
+## Phase B: Business Architecture   
 #### From a business perspective, the AI agent acts as an intelligent assistant capable of handling real workflows — such as enterprise data pipeline orchestration and event/meeting scheduling — using the enterprise data. 
 
 #### It supports Retrieval-Augmented Generation (RAG) from the Pinecone vector store, allowing the reuse of internal documentation and knowledge assets across teams. 
@@ -69,7 +69,7 @@
 
 --- 
 
-## Phase C: Information Systems Architecture  🧩 
+## Phase C: Information Systems Architecture  
 #### Data Architecture is centered around Pinecone, which acts as a semantic memory layer for the enterprise. Embeddings are generated using OpenAI and stored in indexes (databases), enabling accurate retrieval and contextual understanding across workflows. 
 
 #### On the Application Architecture side, the agent is decomposed into modular services: language models, memory buffers, vector tools, data storage APIs, and calendar interfaces. 
@@ -83,7 +83,7 @@
         ◦ Application Architecture → agent nodes (LLM, memory, tools) become modular “AI services” that plug into different enterprise workflows.
 ---
 
-## Phase D: Technology Architecture  ☁️ 
+## Phase D: Technology Architecture   
 #### The implementation is fully cloud-native, orchestrated within n8n, and designed to run in Docker, Kubernetes (AKS, EKS), or serverless environments. This ensures horizontal scalability, uptime, and operational reliability. 
 
 #### The use of credentials management (for example in AKS Secrets/Vaults; as in project 5), logging, and reusable nodes supports enterprise-grade governance, monitoring, and security, which are essential components of a compliant technology stack. 
@@ -95,7 +95,7 @@
         ◦ This ensures elasticity, reliability, and governance at scale.
 ---
 
-## Phase E: Opportunities & Solutions  🚀 
+## Phase E: Opportunities & Solutions  
 #### As shown here: tmanuelbomi/Designing-an-Enterprise-Agentic-AI-Scheduler-in-n8n  the Agentic AI system already integrates with Google Drive and Google Calendar to check availability and create events, showcasing seamless integration with enterprise productivity tools. This serves as a template for future integrations with enterprise ERP, CRM, or ticketing systems. 
 
 #### We show how we can vary the design of the Agentic AI Scheduler to perform the function of an enterprise data pipeline orchestrator here: manuelbomi/Agentic-AI-Workflow----Enterprise-Data-Integration-Pipeline-and-Vector-Storage-with-n8n . 
@@ -126,7 +126,7 @@
 
   ---
 
-## Phases F–H: Migration, Implementation & Change    🧭
+## Phases F–H: Migration, Implementation & Change    
 #### This solution is built to be incrementally adopted. An organization might begin with a single use case — event coordination — and then progressively extend the agent to other departments or workflows. 
 
 #### Governance policies and versioning within n8n ensure traceability and compliance with implementation standards. Finally, the use of vector embeddings enables continuous improvement of the knowledge base without retraining models, aligning with Phase H's focus on evolution and adaptability.  
@@ -167,7 +167,7 @@
 
 
 
-## Why This Architecture Matters  ✅ 
+## Why This Architecture Matters  
 #### This project bridges the gap between AI innovation and enterprise architecture. 
 
 #### By framing the agentic AI and LLM workflows through the lens of TOGAF, it becomes more than a prototype — it becomes a strategic enabler that fits cleanly into existing enterprise roadmaps. 
