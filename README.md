@@ -187,7 +187,9 @@
 
 
 
-##### Thank you for reading 
+#### Thank you for reading 
+
+#### Consider pinning a start on this repo if you find it useful and informative
 
 ---
 
